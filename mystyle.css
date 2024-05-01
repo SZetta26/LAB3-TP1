@@ -1,6 +1,8 @@
 body{
     background: black;
     color: white;
+    padding-left: 15px;
+    padding-right: 15px;
 
 }
 
@@ -21,6 +23,7 @@ p{
   text-align: center;
   font-size: 13px;
   padding-top: 10px;
+
 }
 
 ol{
@@ -31,4 +34,9 @@ ol{
 .titulo{
     background-color: red;
     padding-top: 20px;
+}
+
+.lista_especies{
+    padding-top: 70px;
+
 }
