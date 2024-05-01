@@ -9,9 +9,9 @@ p{
     font-size: 18px;
 }
 
-#introduccion{
+#subtitulos{
     font-size: 25px;
-    
+    padding-top: 25px;
 }
 
 .center{
@@ -21,4 +21,14 @@ p{
   text-align: center;
   font-size: 13px;
   padding-top: 10px;
+}
+
+ol{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.titulo{
+    background-color: red;
+    padding-top: 20px;
 }
