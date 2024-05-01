@@ -1,0 +1,15 @@
+body{
+    background: black;
+    color: white;
+
+}
+
+p{
+    margin-top:0; margin-bottom:0;
+    font-size: 18px;
+}
+
+#introduccion{
+    font-size: 25px;
+    
+}
