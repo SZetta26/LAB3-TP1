@@ -64,8 +64,7 @@ ol{
 
 .galeria{
     margin: 15px;  
-    
-   
+     
 }
 
 .border{
@@ -73,4 +72,12 @@ ol{
     width: 150px;
     height: 100px;
     margin: 5px;
+    margin-bottom: 50px;
+}
+
+.pie{
+    background-color: orange;
+    padding-top: 5px;
+    color: black;
+    
 }
