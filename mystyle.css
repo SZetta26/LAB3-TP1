@@ -35,8 +35,9 @@ ol{
 }
 
 .titulo{
-    background-color: red;
+    background-color: orange;
     padding-top: 20px;
+    color: black;
 }
 
 .lista_especies{
@@ -56,3 +57,18 @@ ol{
     justify-content: space-around;
     color: orange;
 }
+
+.importancia{
+    padding-top: 50px;
+}
+
+.galeria{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    width: 200px;
+    height: 150px;
+
+   
+}
+
