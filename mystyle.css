@@ -3,8 +3,7 @@ body{
     color: white;
     padding-left: 15px;
     padding-right: 15px;
-    
-
+    font-family: 'gill sans'; 
 }
 
 p{
@@ -25,7 +24,6 @@ p{
   margin-right: auto;
   text-align: center;
   font-size: 13px;
-  
 
 }
 
