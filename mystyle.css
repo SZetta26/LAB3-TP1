@@ -62,7 +62,7 @@ ol{
     padding-top: 50px;
 }
 
-.galeria{
+#galeria{
     margin: 15px;  
      
 }
@@ -80,4 +80,9 @@ ol{
     padding-top: 5px;
     color: black;
     
+}
+
+ul.navega li{
+    display: inline;
+    color: white;
 }
