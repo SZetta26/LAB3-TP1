@@ -3,6 +3,7 @@ body{
     color: white;
     padding-left: 15px;
     padding-right: 15px;
+    
 
 }
 
@@ -14,15 +15,17 @@ p{
 #subtitulos{
     font-size: 25px;
     padding-top: 40px;
+    color: blueviolet;
 }
 
 .center{
     display: block;
+    margin: 10px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
   font-size: 13px;
-  padding-top: 10px;
+  
 
 }
 
@@ -39,4 +42,17 @@ ol{
 .lista_especies{
     padding-top: 70px;
 
+}
+
+.cv_multimedia {
+    width: 90%;
+    height: 300px;
+    margin: 25px;
+    
+  }
+
+.multimedias{
+    display: flex;
+    justify-content: space-around;
+    color: blueviolet;
 }
