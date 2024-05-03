@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 body{
     background: black;
     color: white;
@@ -36,6 +41,13 @@ ol{
     background-color: orange;
     padding-top: 20px;
     color: black;
+    position: fixed;
+    width: 98%;
+    top: 0px;
+}
+
+.Intro{
+    margin-top: 80px;
 }
 
 .lista_especies{
